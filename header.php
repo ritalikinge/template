@@ -1,6 +1,7 @@
 <?php
     include_once 'config.php';
     // session_start();
+    
 ?>
 
  <!-- BEGIN GLOBAL MANDATORY SCRIPTS -->
